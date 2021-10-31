@@ -1,4 +1,5 @@
-import React from 'react'
+import {useEffect} from 'react'
+// import db from '../firebase'
 
 const Content = () => {
     return (
