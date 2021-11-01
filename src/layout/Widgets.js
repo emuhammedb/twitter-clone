@@ -20,7 +20,7 @@ const Widgets = () => {
             screenName: "tarihlugati",
           }}
           options={{
-            height: "1000",
+            height: "640",
           }}
         />
       </div>

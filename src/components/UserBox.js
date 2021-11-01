@@ -2,7 +2,7 @@ import React from "react";
 
 const UserBox = () => {
   return (
-    <div className="flex justify-between items-center mb-6 hover:bg-gray-extraLight cursor-pointer rounded-full py-2 px-4 transform transition-colors duration-700">
+    <div className="flex justify-between items-center mb-6 hover:bg-gray-extraLight cursor-pointer rounded-full py-2 px-4 transform transition-colors duration-500">
       <img
         src="https://pbs.twimg.com/profile_images/1444207456536735746/ABCsDyOp_400x400.jpg"
         alt="Profile"
